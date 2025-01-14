@@ -13,31 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Ліч та компінія/Гаравці/граваці.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "граваці"
             }
-          }
-        ]
-      },
-      {
-        "id": "963fb8c6216fcc63",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "4e9c1097395cd0ef",
+            "id": "80a5e67677227e56",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Ліч та компінія/Гаравці/граваці.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "граваці"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,8 +188,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c748a709828424b7",
+  "active": "be642db2229eb427",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Ліч та компінія/Гаравці",
+    "Ліч та компінія/Короткий опис.md",
+    "Ліч та компінія/Гаравці/граваці.md",
+    "Untitled",
+    "Тут список усіх активних кампаній та світів.md",
+    "Ліч та компінія"
   ]
 }
